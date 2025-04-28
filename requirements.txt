@@ -1,0 +1,8 @@
+Flask
+twilio
+groq
+python-dotenv
+requests
+pydub
+SpeechRecognition
+gTTS
