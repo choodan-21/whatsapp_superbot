@@ -1,8 +1,9 @@
 Flask
 twilio
-groq
 python-dotenv
 requests
+groq
+gTTS
 pydub
 SpeechRecognition
-gTTS
+gunicorn
